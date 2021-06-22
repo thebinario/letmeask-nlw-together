@@ -1,21 +1,21 @@
 <<div>
 <p align="center">
-   <img src="./.github/logo.png" alt="letmeask-nlw-together" width="360"/>
+   <img src="https://github.com/thebinario/NLW-Together/blob/main/.github/logo.png" alt="letmeask-nlw-together" width="360"/>
 </p>
 </div>
 <p align="center">	
-   <a href="https://www.linkedin.com/in/luiz-lima-cezario/">
-      <img alt="Abimael Ferreira" src="https://img.shields.io/badge/-luizCezario-4c378b?style=flat&logo=Linkedin&logoColor=white" />
+   <a href="https://www.linkedin.com/in/abimael-de-oliveira-ferreira-b870121a7/">
+      <img alt="Abimael Ferreira" src="https://img.shields.io/badge/-Abimael%20Ferreira-4c378b?style=flat&logo=Linkedin&logoColor=white" />
    </a>
 
   <a aria-label="Completed" href="https://nextlevelweek.com/episodios/node/aula-1/edicao/6">
-    <img src="https://img.shields.io/badge/Proffy-NLW 2.0-4c378b?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
+    <img src="https://img.shields.io/badge/Together-NLW 2.0-4c378b?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
   </a>
-  <a href="https://github.com/thebinario/letmeask-nlw-together/commits/master">
+  <a href="https://github.com/thebinario/letmeask-nlw-together/commits/development">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/thebinario/letmeask-nlw-together?color=4c378b">
   </a> 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-4c378b">
-  <a href="https://github.com/thebinario/N/stargazers">
+  <a href="https://github.com/thebinario/letmeask-nlw-together/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/thebinario/letmeask-nlw-together?color=4c378b&logo=github">
   </a>
 </p>
