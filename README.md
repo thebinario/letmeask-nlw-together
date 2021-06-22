@@ -19,7 +19,18 @@
     <img alt="Stargazers" src="https://img.shields.io/github/stars/thebinario/letmeask-nlw-together?color=4c378b&logo=github">
   </a>
 </p>
+<p align="center">	
+   <a href="https://pt-br.reactjs.org/docs/getting-started.html">
+      <img alt="React docs" src="https://img.shields.io/badge/-React-4c378b?style=flat&logo=react&logoColor=white" />
+   </a>
+   <a href="https://firebase.google.com/?hl=pt">
+      <img alt="FireBase" src="https://img.shields.io/badge/-FireBase-yellow?style=flat&logo=firebase&logoColor=white" />
+   </a>
+   <a href="https://www.typescriptlang.org/">
+      <img alt="FireBase" src="https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&logoColor=white" />
+   </a>
 
+</p>
 > :rocket: Projeto feito para conectar professores e estudantes, feito na Next Level Week #6 @Rocketseat
 
 
